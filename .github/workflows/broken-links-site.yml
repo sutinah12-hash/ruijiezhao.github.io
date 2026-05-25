@@ -27,7 +27,7 @@ jobs:
           changes: |
             {
               "giscus.repo": "${{ github.repository }}",
-              "baseurl": "/ruijiezhao.github.io"
+              "baseurl": "/ruijiezhao.github.io/"
             }
       - name: Install and Build 🔧
         run: |
