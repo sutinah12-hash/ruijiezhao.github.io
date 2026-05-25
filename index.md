@@ -69,8 +69,7 @@ I am an undergraduate student in **Mechanical Design, Manufacturing and Automati
 
 ### 📄 Download My CV
 
-<!-- Upload CV to assets/pdf/CV_Ruijie_Zhao.pdf and uncomment the line below -->
-<!-- [赵睿洁_简历.pdf](/assets/pdf/CV_Ruijie_Zhao.pdf) -->
+[赵睿洁_简历.pdf](/assets/pdf/CV_Ruijie_Zhao.pdf)
 
 ### 📬 Contact
 
