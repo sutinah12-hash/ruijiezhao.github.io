@@ -1,0 +1,6 @@
+# Social links displayed in the sidebar (jekyll-socials plugin)
+cv_pdf: # add path after uploading CV, e.g. /assets/pdf/CV_Ruijie_Zhao.pdf
+email: zrj196827@qq.com
+github: sutinah12-hash
+rss_icon: false
+# scholar_userid: your-google-scholar-id  # uncomment after setup

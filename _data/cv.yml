@@ -1,0 +1,119 @@
+cv:
+  name: 赵睿洁 (Ruijie Zhao)
+  label: Undergraduate Student
+  email: zrj196827@qq.com
+  location: Shanghai, China
+  image: ""
+  summary: >-
+    An undergraduate student in Mechanical Design, Manufacturing and Automation at Tongji University. 
+    Passionate about robotics, mechatronics, and autonomous systems, with a focus on UAV vision-language navigation, world models, and embedded AI.
+
+  social_networks:
+    - network: GitHub
+      username: sutinah12-hash
+    - network: Email
+      username: zrj196827@qq.com
+
+  address:
+    city: Shanghai
+    region: China
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Tongji University
+        location: Shanghai, China
+        area: Mechanical Design, Manufacturing and Automation
+        studyType: B.Eng.
+        start_date: 2024-09
+        end_date: 2028-06
+        highlights:
+          - Core Courses: Mechanical Principles, Mechanical Design, Theoretical Mechanics, Mechanics of Materials, Electrical Engineering
+          - GPA: 3.8/4.0 (Top 10%)
+
+    Experience:
+      - company: Tongji University Innovation and Entrepreneurship Department
+        position: Comprehensive Management Department Staff
+        location: Shanghai, China
+        start_date: 2024-09
+        end_date: Present
+        summary: Responsible for department training and organization of exchange meetings; formulated functional plans for each department to improve work efficiency.
+
+      - company: Tongji University Women's College
+        position: Copywriting Department Staff
+        location: Shanghai, China
+        start_date: 2024-09
+        end_date: 2025-09
+        summary: Organized activities and recorded minutes; drafted multiple articles published on the official college WeChat platform with over 10,000 views.
+
+    Awards:
+      - title: National Encouragement Scholarship
+        date: 2025
+        awarder: Ministry of Education of China
+
+      - title: First-Class Scholarship of Tongji University
+        date: 2025
+        awarder: Tongji University
+
+      - title: Merit Student of Tongji University
+        date: 2025
+        awarder: Tongji University
+
+      - title: American Mathematical Contest in Modeling (MCM) S Award
+        date: 2025
+        awarder: Consortium for Mathematics and Its Applications (COMAP)
+
+      - title: China Undergraduate Mathematical Contest in Modeling International H Award
+        date: 2024
+        awarder: China Society for Industrial and Applied Mathematics
+
+      - title: Tongji University Applied Mechanics Competition First Prize
+        date: 2025
+        awarder: Tongji University
+
+      - title: National College Students Innovation and Entrepreneurship Competition Gold Award (Red Tourism Track)
+        date: 2025
+        awarder: Ministry of Education of China
+
+    Projects:
+      - name: Sitp Intelligent Distribution Robot
+        position: Project Leader
+        start_date: 2024-09
+        end_date: 2025-06
+        summary: Led the development of an intelligent delivery robot, responsible for system design, mechanical structure and control logic.
+        highlights:
+          - Won the "New Cup" Structural Design Competition Third Prize
+          - Integrated Python/C++ programming and embedded control
+
+      - name: Smart Logistics Innovation Project
+        position: Team Leader
+        start_date: 2024-10
+        end_date: 2025-05
+        summary: Led a team to develop a smart logistics system for the International College Students Innovation and Entrepreneurship Competition.
+        highlights:
+          - Won Silver Award in the Creative Group
+          - Applied mechatronics and automation knowledge to solve practical problems
+
+    Skills:
+      - name: Engineering & Mechanics
+        keywords: "Mechanical Design, Theoretical Mechanics, Mechanics of Materials, Applied Mechanics"
+
+      - name: Programming
+        keywords: "Python, C++, Embedded Systems, Git, LaTeX"
+
+      - name: Research & Competition
+        keywords: "Mathematical Modeling, Robotics Competitions, Innovation & Entrepreneurship"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent (CET-6 level)"
+
+    Interests:
+      - name: Robotics & Mechatronics
+        keywords: "UAV Navigation, Autonomous Systems, AI for Robotics"
+
+      - name: Calligraphy & Culture
+        keywords: "Hard Pen Calligraphy, Traditional Chinese Culture"
