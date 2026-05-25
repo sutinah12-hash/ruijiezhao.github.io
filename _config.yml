@@ -280,8 +280,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhao]
+  first_name: [Ruijie]
 
   style: apa
   locale: en
@@ -289,10 +289,7 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
